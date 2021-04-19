@@ -18,11 +18,13 @@ public class Usuario {
 		
 	}
 	return this.video;
-	public void totalAvaliacoes() {
+	}
+	
+	public int totalAvaliacoes() {
+		
+		
 		
 		
 		
 	}
-
-}
 }
